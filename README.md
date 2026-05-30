@@ -1,33 +1,32 @@
-# ¡Hola! Soy Jesus A Hernandez Enriquez
+# ¡Hola! Soy Jesus A Hernandez Enriquez, soy un apasionado Analista de Datos 👋
 
-Analista de Datos en formación con enfoque en la resolución de problemas de negocio, optimización de procesos y analítica de producto. Me apasiona transformar datos crudos y masivos en historias visuales claras e implicaciones estratégicas que guíen la toma de decisiones.
+Analista de Datos orientado a la resolución de problemas de negocio, optimización de procesos y analítica de producto (Growth & Product Analytics). Me especializo en transformar datos transaccionales masivos y métricas complejas en tableros visuales interactivos y conocimiento estratégico accionable que guíe la toma de decisiones ejecutivas.
 
 ---
 
 ## 🚀 Mis Proyectos Destacados
 
-### 📊 [Evaluación de Movilidad Urbana y Productividad Económica](https://github.com/TU_USUARIO/urban-mobility-analysis)
+### 📊 [Evaluación de Movilidad Urbana y Productividad Económica en LATAM](https://github.com/TU_USUARIO/urban-mobility-analysis)
 * **Tecnologías:** Python (Pandas, NumPy), Matplotlib, Seaborn, Jupyter Notebooks.
-* **Descripción:** Procesamiento y limpieza de más de 1,000,000 de registros de tráfico (TomTom) cruzados con indicadores macroeconómicos de la OCDE para evaluar el impacto de la congestión vial en la competitividad regional de LATAM.
+* **Descripción:** Procesamiento y optimización de memoria de un dataset masivo con más de 1,000,000 de registros de tráfico (TomTom Index) cruzado con indicadores socioeconómicos de la OCDE. Identificación de correlaciones clave entre la congestión vial y el PIB per cápita regional para priorizar inversiones en infraestructura de transporte.
 
-### 🛍️ [Análisis de Embudo de Conversión y Retención - MercadoLibre](https://github.com/TU_USUARIO/mercadolibre-funnel-retention-analysis)
-* **Tecnologías:** Excel Avanzado, Modelado Relacional, Producto & Growth Analytics.
-* **Descripción:** Diagnóstico de comportamiento de usuarios a través de cohortes de retención temporal y segmentación geográfica. Identificación de fricciones críticas de conversión (*drop-off*) e implicaciones para el ciclo de vida del usuario.
+### 🛍️ [Product Analytics: Análisis de Embudo y Retención en MercadoLibre](https://github.com/TU_USUARIO/mercadolibre-funnel-retention-analysis)
+* **Tecnologías:** Python (Pandas, Matplotlib), Growth & Product Analytics.
+* **Descripción:** Desarrollo de un pipeline analítico que evalúa el comportamiento y ciclo de vida del usuario (enero - agosto 2025). Diagnóstico cuantitativo de tasas de caída (*drop-off*) en el funnel transaccional (con un 76.9% de fricción en etapas tempranas) y modelado de matrices temporales de cohortes y retención por países en LATAM.
 
 ---
 
 ## 🛠️ Herramientas y Tecnologías
 
-* **Lenguajes & Librerías:** Python 3 (Pandas, NumPy, Seaborn, Matplotlib)
-* **Análisis de Negocio:** Microsoft Excel Avanzado (Tablas dinámicas, `XLOOKUP`, Campos calculados)
-* **Bases de Datos & Control:** SQL (Consultas relacionales), Git & GitHub
-* **Idiomas:** Español (Nativo), Inglés (En desarrollo)
+* **Lenguajes & Librerías:** Python 3 (Pandas, NumPy, Matplotlib, Seaborn)
+* **Análisis de Producto & Negocio:** Growth Analytics (Funnels, Cohortes, Retención), Microsoft Excel Avanzado (Modelos relacionales, `XLOOKUP`, Campos calculados)
+* **Bases de Datos & Control de Versiones:** SQL (Consultas estructuradas), Git & GitHub
 
 ---
 
 ## 📬 Contacto
 
-¿Te gustaría charlar sobre datos, proyectos o una oportunidad laboral? ¡Conectemos!
+¿Te gustaría charlar sobre ciencia de datos, analítica de producto o explorar oportunidades laborales? ¡Conectemos!
 
 * **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
 * **Correo:** [tu-correo@email.com](mailto:tu-correo@email.com)
