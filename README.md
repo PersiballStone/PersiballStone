@@ -29,5 +29,5 @@ Analista de Datos orientado a la resolución de problemas de negocio, optimizaci
 ¿Te gustaría charlar sobre ciencia de datos, analítica de producto o explorar oportunidades laborales? ¡Conectemos!
 
 * **LinkedIn:** [linkedin.com/in/jesus-hernández-enriquez-9260b2405](https://linkedin.com/in/jesus-hern%C3%A1ndez-enriquez-9260b2405)
-* **Correo:** [jeshdez395@gmail.com](mailto:jeshdez395@gmail.com)
+* **Correo:** [jeshdez4@gmail.com](mailto:jeshdez4@gmail.com)
 * **Ubicación:** Puebla, México 🇲🇽
