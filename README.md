@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jesus A Hernandez Enriquez, soy un apasionado Analista de Datos 👋
+# ¡Hola! Soy Jesus A Hernandez Enriquez
 
 Analista de Datos orientado a la resolución de problemas de negocio, optimización de procesos y analítica de producto (Growth & Product Analytics). Me especializo en transformar datos transaccionales masivos y métricas complejas en tableros visuales interactivos y conocimiento estratégico accionable que guíe la toma de decisiones ejecutivas.
 
@@ -28,6 +28,6 @@ Analista de Datos orientado a la resolución de problemas de negocio, optimizaci
 
 ¿Te gustaría charlar sobre ciencia de datos, analítica de producto o explorar oportunidades laborales? ¡Conectemos!
 
-* **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/jesus-hernández-enriquez-9260b2405)
-* **Correo:** [tu-correo@email.com](jeshdez4@gmail.com)
-* **Ubicación:**Tehuacán Puebla, México 🇲🇽
+* **LinkedIn:** [linkedin.com/in/jesus-hernández-enriquez-9260b2405](https://linkedin.com/in/jesus-hern%C3%A1ndez-enriquez-9260b2405)
+* **Correo:** [jeshdez395@gmail.com](mailto:jeshdez395@gmail.com)
+* **Ubicación:** Puebla, México 🇲🇽
